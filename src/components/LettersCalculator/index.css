@@ -1,0 +1,48 @@
+.container {
+  background-image: radial-gradient(#1d976c, #93f9b9);
+  height: 100vh;
+  display: flex;
+
+  justify-content: center;
+  align-items: center;
+}
+.calci-img {
+  height: 400px;
+  width: 500px;
+}
+.heading {
+  font-family: Roboto;
+  color: #ffffff;
+}
+.input-decor {
+  background-color: transparent;
+  height: 35px;
+  width: 300px;
+  border-color: #ffffff;
+  border-width: 1px;
+  border-radius: 7px;
+  outline: none;
+  color: #ffffff;
+  padding: 7px;
+  margin-top: 7px;
+}
+.enter {
+  color: #ffffff;
+  font-weight: 500;
+  font-size: 15px;
+}
+.count-number {
+  height: 70px;
+  width: 250px;
+  background-color: #ffffff;
+  text-align: center;
+  padding: 20px;
+  border-radius: 10px;
+  color: #219a6f;
+  font-size: 20px;
+  font-weight: 700;
+}
+.thoery {
+  display: flex;
+  flex-direction: column;
+}
